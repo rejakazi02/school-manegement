@@ -134,3 +134,31 @@ color: #FFFFFF;
   flex-direction: column;
   align-items: center;
 }
+
+
+
+
+
+
+
+
+@media (min-width:300px) and (max-width:767px){
+.logo{
+margin-top: 31%;
+    margin-bottom: 40px;
+}
+
+.logooImg {
+  width: 37%;
+  height: 20%;
+}
+
+.regBtnText {
+    width: 80% !important;
+   
+    font-size: 19px;
+    
+}
+
+
+}
