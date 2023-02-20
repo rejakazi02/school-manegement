@@ -146,3 +146,41 @@ justify-content: center;
 flex-direction: column;
 align-items: center;
 }
+
+
+
+@media (min-width:300px) and (max-width:767px){
+
+  .login-main-div{
+    width: 100%;
+height: 40vh;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+  }
+  .headerDiv {
+    width: 100%;
+    margin-top: 290px;
+}
+
+
+.LogoImg {
+  width: 95%;
+  margin-top: 123px;
+}
+
+.BtnDiv {
+
+  margin-top: 23px;
+}
+.logBTTn {
+  width: 319px !important;
+  height: 42px;
+}
+
+
+
+
+
+}
