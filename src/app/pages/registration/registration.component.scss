@@ -143,8 +143,17 @@ color: #FFFFFF;
 
 
 @media (min-width:300px) and (max-width:767px){
-.logo{
-margin-top: 31%;
+
+
+section{
+    background-color: #8aabff;
+   height: auto;
+    width: 100%;
+    position: relative;
+}
+
+  .logo{
+margin-top: 16%;
     margin-bottom: 40px;
 }
 
@@ -158,6 +167,11 @@ margin-top: 31%;
    
     font-size: 19px;
     
+}
+.Info{
+      position: relative;
+    padding-bottom: 27px;
+    margin-top: 25px;
 }
 
 
